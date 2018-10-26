@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文叨的Blog</title>
+    <description>Don't be afraid to be yourself.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 23 Oct 2018 08:56:29 +0800</pubDate>
+    <lastBuildDate>Tue, 23 Oct 2018 08:56:29 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>森林空间结构</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;文章主要参考：柴宗政. 基于相邻木关系的森林空间结构量化评价及R语言编程实现[D]. 西北农林科技大学, 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;森林结构量化表达&quot;&gt;森林结构量化表达&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2018/10/22/5bcda4754fb3c.png&quot; alt=&quot;森林结构特征及量化评价比较.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;林分结构&quot;&gt;林分结构&lt;/h3&gt;
+&lt;p&gt;　　林分结构是指林分内林木群体特性的空间分布格局，包括物种结构、林分水平结构及林分垂直结构等。&lt;/p&gt;
+
+&lt;h3 id=&quot;林分密度&quot;&gt;林分密度&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;陈东来, 刘丽华, 张景兰. 林分密度的新指标–冠积指数[J]. 东北林业大学学报, 2003, 31(5):15-17.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;　　林分密度 (Stand density) 是指单位面积林地上的林木数量，反映了林分内林木对其所占有空间的利用程度，显著影响着林分生长、木材产量及质量&lt;/p&gt;
+
+&lt;h3 id=&quot;空间结构均质性指数&quot;&gt;空间结构均质性指数&lt;/h3&gt;
+
+&lt;p&gt;　　&lt;a href=&quot;http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&amp;amp;dbname=CJFD2013&amp;amp;filename=STXB201312020&amp;amp;uid=WEEvREcwSlJHSldRa1FhdXNXa0d1REoxYnNLSGhuRXVGUlNob2lzS0V4UT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&amp;amp;v=MDg4MjJuVGJMRzRIOUxOclk5SFpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEtlWitSdEZ5RGhWTDNKTmo=&quot;&gt;李建军&lt;/a&gt; (2013) 借鉴林分择伐空间结构优化模型，从生态学有关生态系统内部均衡和均质原理，在生态系统(斑块尺度)，从空间结构的混交(混交度和大小比数)、竞争(竞争指数)、空间分布格局(角尺度、空间密度指数及林层指数)3 个方面提出基于Voronoi 图的空间结构均质性指数。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;李建军, 刘帅, 张会儒, 等. 洞庭湖森林生态系统空间结构均质性评价[J]. 生态学报, 2013, 33(12): 3732-3741.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/22/ForestStructural-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/22/ForestStructural-2018/</guid>
+        
+        <category>森林</category>
+        
+        <category>空间结构</category>
+        
+        <category>论文</category>
+        
+        <category>Forest stand structure</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>EDG 也输了</title>
+        <description>&lt;h2 id=&quot;s8-lpl三号种子被淘汰&quot;&gt;S8 LPL三号种子被淘汰&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;认识英雄联盟，大四的时候和室友一起开始玩的，只是个只打过一局排位的云玩家（匹配和大乱斗玩家），那时候是2013年，如今2018年。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;果然 EDG 也输了&lt;/p&gt;
+
+&lt;h3 id=&quot;晚安我继续加班了&quot;&gt;晚安，我继续加班了&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;今夜，属于伤心的 LPL，too&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Sun, 21 Oct 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/21/S8-EDG-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/21/S8-EDG-2018/</guid>
+        
+        <category>游戏</category>
+        
+        <category>LOL</category>
+        
+        <category>LPL</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>RNG 输了</title>
+        <description>&lt;h2 id=&quot;s8-lpl一号种子被淘汰&quot;&gt;S8 LPL一号种子被淘汰&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;认识英雄联盟，大四的时候和室友一起开始玩的，只是个只打过一局排位的云玩家（匹配和大乱斗玩家），那时候是2013年，如今2018年。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 关于 LOL 比赛&lt;/strong&gt;&lt;br /&gt;
+      看英雄联盟的比赛还不是特别久，印象最深刻的是 2015 年的 MSI,那一年战胜了SKT，知道了EDG，知道了厂长和他的寡妇。自那以后，就一直有关注EDG的比赛，从LPL全胜，到 4396，从让二追三 RNG 到 16 强，也都习惯了。早就养成了无所谓的态度。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. S8&lt;/strong&gt;&lt;br /&gt;
+      “LPL最有希望的一届世界赛？”你信吗？反正不是 EDG 最有希望的一届，我其实是不怎么关心的。大家全都那么看好 RNG ,然后，他们输了，而且面对赛前认为不是很强的对手，大家预测都是 3 - 0 取胜，结果啪啪啪打脸，输就输吧，想哭的就哭吧，毕竟，赛前被全世界看好的队伍，输了！ 明天，EDG 打 FNC，我是不会看比赛的，希望明天我10点钟刷微博的时候。。。。。&lt;/p&gt;
+
+&lt;h3 id=&quot;晚安我继续加班了&quot;&gt;晚安，我继续加班了&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;今夜，属于伤心的 LPL&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/20/S8-RNG-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/20/S8-RNG-2018/</guid>
+        
+        <category>游戏</category>
+        
+        <category>LOL</category>
+        
+        <category>LPL</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>利用 Matlab 计算各种角度</title>
+        <description>&lt;h2 id=&quot;各种空间角度的计算方法&quot;&gt;各种（空间）角度的计算方法&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;以前自己的立体几何学的不好，各种计算方法全都忘记的差不多了，在这里整理与总结一下，便于以后查询和分享吧&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;1.两向量间夹角&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Calculate the 3D angle between two vectors&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The angle between two three-element vectors, P1 and P2, can be calculated using matlab in the following way:&lt;/p&gt;
+&lt;p&gt;a = atan2(norm(cross(P1,P2)),dot(P1,P2)); % Angle in radians&lt;/p&gt;
+
+&lt;p&gt;The angle will lie between 0 and pi radians. To get degrees use ‘atan2d’.&lt;/p&gt;
+
+&lt;p&gt;Note: However, the cosine of such an angle can be calculated as:&lt;/p&gt;
+
+&lt;p&gt;cosine of the angle = dot(P1,P2)/(norm(P1)*norm(P2))
+No need to compute the angle itself.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Oct 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/19/AnglebyMatlab-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/19/AnglebyMatlab-2018/</guid>
+        
+        <category>Matlab</category>
+        
+        <category>Paper</category>
+        
+        <category>Point Cloud</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;h2 id=&quot;不知道为什么开始&quot;&gt;不知道为什么开始&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;这是我的第一篇博客，是的虽然我不知道为甚突然想自己搭建个博客。
+简单点吧 记录我学习的过程，记录读博过程中的收获和失去吧
+好的 就这样了&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Fri, 19 Oct 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/19/Hello-World-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/19/Hello-World-2018/</guid>
+        
+        <category>生活</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
